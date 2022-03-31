@@ -1,5 +1,6 @@
 # Practica3 Primitive Datatype
 
+  
 ### Task 1 : Use 'Get-Help' to find out more information about 5 cmdlets
 
 ### Task 2 : Use “Get-Help” with the “–Example” parameter for the 5 cmdlets you discovered more about in task 1.
@@ -35,6 +36,7 @@
 
 `Get-Content -Path .\Maximo\PowerShell\Workshop1\%USERNAME%\TestFile.txt`
 
+  
 ![]()
 
 ### Task 7 : Format the data returned by a cmdlet into a list
@@ -44,3 +46,5 @@
 ### Task 9 : Pipe the 5 cmdlets you discovered in task 1 into “Out-GridView”
 
 ### Task 10 : Find the official PowerShell documentation library fromMicrosoft
+  
+
