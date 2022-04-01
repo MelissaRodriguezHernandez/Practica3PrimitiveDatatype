@@ -3,7 +3,38 @@
   
 ### Task 1 : Use 'Get-Help' to find out more information about 5 cmdlets
 
+`Get-Help Out-GridView`
+![]()
+
+`Get-Help Get-AppBackgroundTask`
+![]()
+
+`Get-Help Get-BCStatus`
+![]()
+
+`Get-Help Get-ChildItem`
+![]()
+
+`Get-Help New-Event`
+![]()
+
 ### Task 2 : Use “Get-Help” with the “–Example” parameter for the 5 cmdlets you discovered more about in task 1.
+
+`Get-Help Out-GridView -Example`
+![]()
+
+`Get-Help Get-AppBackgroundTask -Example`
+![]()
+
+`Get-Help Get-BCStatus -Example`
+![]()
+
+`Get-Help Get-ChildItem -Example`
+![]()
+
+`Get-Help New-Event -Example`
+![]()
+
 
 ### Task 3: Create a new text file named “TestFile.txt” under C:\Maximo\PowerShell\Workshop1\%USERNAME%
 
@@ -41,10 +72,19 @@
 
 ### Task 7 : Format the data returned by a cmdlet into a list
 
+![]()
+
 ### Task 8 : Pipe “Get-Command” into “Out-GridView”
+
+`Get-Command Out-GridView`
+![]()
 
 ### Task 9 : Pipe the 5 cmdlets you discovered in task 1 into “Out-GridView”
 
-### Task 10 : Find the official PowerShell documentation library fromMicrosoft
+### Task 10 : Find the official PowerShell documentation library from Microsoft
+
+https://docs.microsoft.com/en-us/powershell/
+
+![]()
   
 
