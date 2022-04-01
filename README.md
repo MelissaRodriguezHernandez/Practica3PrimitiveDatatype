@@ -82,7 +82,9 @@
 
 ### Task 7 : Format the data returned by a cmdlet into a list
 
-![]()
+`Get-Service | Format-List`
+
+![](https://github.com/MelissaRodriguezHernandez/Practica3PrimitiveDatatype/blob/main/Img/Ejercicio7.png)
 
 ### Task 8 : Pipe “Get-Command” into “Out-GridView”
 
@@ -91,6 +93,22 @@
 ![](https://github.com/MelissaRodriguezHernandez/Practica3PrimitiveDatatype/blob/main/Img/Get-Command.png)
 
 ### Task 9 : Pipe the 5 cmdlets you discovered in task 1 into “Out-GridView”
+
+`Get-AppBackgroundTask | Out-GridView`
+
+![](https://github.com/MelissaRodriguezHernandez/Practica3PrimitiveDatatype/blob/main/Img/Get-AppBackground%20Out-GridView.png)
+
+`Get-BCStatus | Out-GridView`
+
+![](https://github.com/MelissaRodriguezHernandez/Practica3PrimitiveDatatype/blob/main/Img/Get-BCStatus%20Out.png)
+
+`Get-ChildItem | Out-GridView`
+
+![](https://github.com/MelissaRodriguezHernandez/Practica3PrimitiveDatatype/blob/main/Img/get-ChildItem%20Out..png)
+
+`New-Event | Out-GridView`
+
+![](https://github.com/MelissaRodriguezHernandez/Practica3PrimitiveDatatype/blob/main/Img/New-Event%20Out..png)
 
 ### Task 10 : Find the official PowerShell documentation library from Microsoft
 
