@@ -66,19 +66,21 @@
 
 `ii .\Maximo\PowerShell\Workshop1\%USERNAME%\TestFile.txt`
 
-![]()
+![](https://github.com/MelissaRodriguezHernandez/Practica3PrimitiveDatatype/blob/main/Img/Ejercicio4.png)
 
 ### Task 5 : Read from the text file and use “Get-Member” to findthe datatype returned
 
+ `Get-Content -Patch C:\Maximo\PowerShell\Workshop1\%USERNAME%\TestFile.txt | Get-Member`
+ 
+ ![](https://github.com/MelissaRodriguezHernandez/Practica3PrimitiveDatatype/blob/main/Img/Ejercicio%205.png)
 
 ### Task 6 : Overwrite all data within the text file that you created in task 3.
 
 `Set-Content -Path .\Maximo\PowerShell\Workshop1\%USERNAME%\TestFile.txt -Value "New content"`
 
 `Get-Content -Path .\Maximo\PowerShell\Workshop1\%USERNAME%\TestFile.txt`
-
-  
-![]()
+ 
+![](https://github.com/MelissaRodriguezHernandez/Practica3PrimitiveDatatype/blob/main/Img/Ejercicio%206.png)
 
 ### Task 7 : Format the data returned by a cmdlet into a list
 
